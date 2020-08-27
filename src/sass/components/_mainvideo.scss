@@ -1,0 +1,58 @@
+video {
+  height: 100%;
+  width: 100%;
+  margin-left: 0 auto;
+}
+
+.main-video {
+  position: absolute;
+  z-index: 0;
+  overflow: hidden;
+}
+
+img {
+  width: 400px;
+}
+
+.content-video {
+  position: absolute;
+  width: 100%;
+  top: 40%;
+  margin: 0 auto;
+  padding-left: 5%;
+  padding-right: 5%;
+  text-align: center;
+}
+
+.texts {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  span {
+    font-size: 22px;
+    font-family: 'avenir-next-lt-pro', sans-serif;
+    line-height: 5rem;
+    color: white;
+    font-style: normal;
+    font-weight: 400;
+  }
+
+  .films {
+    padding: 1em 2em;
+    margin: 0 auto;
+    padding: 1.2rem 3.3rem;
+    margin-top: 1rem;
+    border-radius: 3rem;
+    border: none;
+    background-color: $text-white;
+    font-family: 'avenir-next-lt-pro', sans-serif;
+    font-weight: bolder;
+    font-size: 15px;
+    text-align: center;
+    cursor: pointer;
+    &:hover {
+      transform: scale(1.05);
+    }
+  }
+}
