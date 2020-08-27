@@ -20,6 +20,15 @@
   }
 }
 
+.search,
+.cart,
+.hamburger {
+  cursor: pointer;
+  &:hover {
+    transform: scale(1.15);
+  }
+}
+
 .wrap {
   display: flex;
   height: 100%;

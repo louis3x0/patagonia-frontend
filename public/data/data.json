@@ -1,0 +1,34 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "category_title": "Women's",
+      "image_url": "https://eu.patagonia.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Sites-patagonia-storefront-eu/default/dw4b21a5ab/category/routing/routing_etzel_k_1185_womens.jpg?q=70&sw=670&"
+    },
+    {
+      "id": 2,
+      "category_title": "Men's",
+      "image_url": "https://eu.patagonia.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Sites-patagonia-storefront-eu/default/dw631dd8fd/category/routing/routing_siadak_a_0675_mens.jpg?q=70&sw=670&"
+    },
+    {
+      "id": 3,
+      "category_title": "Kids' & Baby",
+      "image_url": "https://eu.patagonia.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Sites-patagonia-storefront-eu/default/dwe36000a6/category/routing/routing_miller_andrew_0398_kids-baby.jpg?q=70&sw=670&"
+    },
+    {
+      "id": 4,
+      "category_title": "Packs & Gear",
+      "image_url": "https://eu.patagonia.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Sites-patagonia-storefront-eu/default/dwc7fc20cf/category/routing/routing_etzel_k_1448_packs-gear.jpg?q=70&sw=670&"
+    },
+    {
+      "id": 5,
+      "category_title": "Workwear",
+      "image_url": "https://eu.patagonia.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Sites-patagonia-storefront-eu/default/dwc1c2ec4b/routing-tile/Routing_1x1-Workwear-burr_a_4724.jpg?q=70&sw=670&"
+    },
+    {
+      "id": 6,
+      "category_title": "Books",
+      "image_url": "https://eu.patagonia.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Sites-patagonia-storefront-eu/default/dw4b93159d/routing-tile/dickey_j_0534_cc_WEB_ClimbHub_RoutingCarousel_ClimbBooks.jpg?q=70&sw=670&"
+    }
+  ]
+}
