@@ -1,0 +1,55 @@
+.navigation {
+  width: 100%;
+  height: auto;
+  position: absolute;
+  fill: #fff;
+  color: #fff;
+  z-index: 10;
+  transition: all ease-in-out 0.35s;
+  &:hover {
+    background-color: white;
+    transition: all ease-in-out 0.35s;
+    color: #000;
+    fill: #000;
+    .wrap {
+      color: black;
+    }
+    path {
+      fill: black;
+    }
+  }
+}
+
+.wrap {
+  display: flex;
+  height: 100%;
+  flex: 1 auto;
+  justify-content: center;
+  align-items: center;
+  text-indent: 3rem;
+  font-family: 'avenir-next-lt-pro', sans-serif;
+  color: $text-white;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 900;
+  margin-right: 5rem;
+}
+
+.bottom-container {
+  width: 100%;
+  height: 6.8rem;
+  display: flex;
+  position: relative;
+  padding: 0 4rem;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 10;
+}
+
+ul {
+  list-style-type: none;
+}
+
+path {
+  fill: white;
+}
