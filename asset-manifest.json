@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2c7c5eb.chunk.css",
-    "main.js": "/static/js/main.788028ec.chunk.js",
-    "main.js.map": "/static/js/main.788028ec.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0fad40bc.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0fad40bc.js.map",
-    "static/js/2.4b2e63cb.chunk.js": "/static/js/2.4b2e63cb.chunk.js",
-    "static/js/2.4b2e63cb.chunk.js.map": "/static/js/2.4b2e63cb.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.8f0a74cde28415948c49e065986624e2.js": "/precache-manifest.8f0a74cde28415948c49e065986624e2.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.c2c7c5eb.chunk.css.map": "/static/css/main.c2c7c5eb.chunk.css.map",
-    "static/js/2.4b2e63cb.chunk.js.LICENSE.txt": "/static/js/2.4b2e63cb.chunk.js.LICENSE.txt",
-    "static/media/fire.mp4": "/static/media/fire.dffef6ee.mp4"
+    "main.css": "/patagonia-frontend/static/css/main.c2c7c5eb.chunk.css",
+    "main.js": "/patagonia-frontend/static/js/main.535da491.chunk.js",
+    "main.js.map": "/patagonia-frontend/static/js/main.535da491.chunk.js.map",
+    "runtime-main.js": "/patagonia-frontend/static/js/runtime-main.aa9fed19.js",
+    "runtime-main.js.map": "/patagonia-frontend/static/js/runtime-main.aa9fed19.js.map",
+    "static/js/2.4b2e63cb.chunk.js": "/patagonia-frontend/static/js/2.4b2e63cb.chunk.js",
+    "static/js/2.4b2e63cb.chunk.js.map": "/patagonia-frontend/static/js/2.4b2e63cb.chunk.js.map",
+    "index.html": "/patagonia-frontend/index.html",
+    "precache-manifest.c29915d2677132f7b6987556d0a6789d.js": "/patagonia-frontend/precache-manifest.c29915d2677132f7b6987556d0a6789d.js",
+    "service-worker.js": "/patagonia-frontend/service-worker.js",
+    "static/css/main.c2c7c5eb.chunk.css.map": "/patagonia-frontend/static/css/main.c2c7c5eb.chunk.css.map",
+    "static/js/2.4b2e63cb.chunk.js.LICENSE.txt": "/patagonia-frontend/static/js/2.4b2e63cb.chunk.js.LICENSE.txt",
+    "static/media/fire.mp4": "/patagonia-frontend/static/media/fire.dffef6ee.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.0fad40bc.js",
+    "static/js/runtime-main.aa9fed19.js",
     "static/js/2.4b2e63cb.chunk.js",
     "static/css/main.c2c7c5eb.chunk.css",
-    "static/js/main.788028ec.chunk.js"
+    "static/js/main.535da491.chunk.js"
   ]
 }
