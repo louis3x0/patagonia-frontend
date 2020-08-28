@@ -1,6 +1,6 @@
 {
   "name": "patagonia-front",
-  "homepage": "https://louis3x0.github.io/patagonia/",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
