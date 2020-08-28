@@ -1,14 +1,14 @@
 .slide-content {
   position: relative;
-  margin: 0 0.5%;
+  margin: 0 0.7%;
   margin-top: 2rem;
   :first-child {
     filter: brightness(50%);
   }
+
   img {
-    background-color: red;
     height: 430px;
-    width: 430px 100%;
+    width: 422px;
     border-radius: 8px;
     cursor: pointer;
   }
@@ -32,7 +32,7 @@
   height: 65vh 100%;
   margin: 0 auto;
   position: relative;
-  padding: 2rem 2rem;
+  padding: 2rem 4rem;
   overflow: hidden;
 }
 
@@ -43,13 +43,16 @@
   align-items: center;
 }
 
-.btn-wrap {
+.slide-wrap {
   display: flex;
   justify-content: space-between;
-  width: 95.5%;
+  width: 96.5%;
   position: absolute;
-  top: 46%;
+  top: 48%;
   z-index: 1;
+  .prev {
+    margin-left: -4rem;
+  }
 }
 
 .prev,

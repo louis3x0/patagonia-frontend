@@ -1,0 +1,100 @@
+footer {
+  background-color: $text-black;
+  color: white;
+  padding: 4rem 3.5rem 1rem 8.5rem;
+}
+
+.inner {
+  margin-top: 4rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn-wrap {
+  display: flex;
+  position: relative;
+}
+
+.content-footer {
+  margin-top: 4rem;
+
+  span {
+    font-size: 28px;
+    letter-spacing: -0.28px;
+    line-height: 32.6668px;
+    font-weight: bold;
+  }
+  p {
+    margin-top: 3rem;
+
+    width: 80%;
+    font-size: 16px;
+    line-height: 28px;
+  }
+}
+
+.help {
+  font-size: 28px;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  margin-top: 4rem;
+  span {
+    padding-left: 0.6rem;
+  }
+}
+
+.btn-wrap {
+  display: flex;
+  display: inline;
+  width: 60%;
+  position: relative;
+  margin-bottom: 15rem;
+  margin-top: 3rem;
+}
+
+.bottom-wrap {
+  display: flex;
+  justify-content: space-between;
+}
+
+.buttons {
+  border-radius: 3rem;
+  background: transparent;
+  color: white;
+  border: 0.3rem solid #ffffff;
+  cursor: pointer;
+  transition: 0.2s;
+  outline: none;
+  font-weight: 700;
+  font-size: 1rem;
+  padding: 0.4rem 1.5rem;
+  margin: 0.5rem;
+  &:hover {
+    transform: scale(1.05);
+  }
+}
+
+.information {
+  margin-top: 4rem;
+}
+
+.text {
+  display: flex;
+  padding: 2rem 0;
+  ul {
+    padding-right: 1.5rem;
+    margin-top: 2rem;
+    font-size: 0.9rem;
+    font-family: Helvetica Neue, Arial, sans-serif;
+    font-weight: 400;
+    color: gray;
+    li {
+      position: relative;
+      margin-bottom: 1.7rem;
+      &:hover {
+        color: white;
+      }
+    }
+  }
+}

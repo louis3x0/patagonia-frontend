@@ -43,7 +43,7 @@ function SliderCarousel() {
       >
         <Slide data={categoryData} />
       </div>
-      <div className="btn-wrap">
+      <div className="slide-wrap">
         <button
           className={`prev ${currentSlide === 0 ? 'prevd' : 'null'}`}
           onClick={prevSlide}
@@ -54,7 +54,7 @@ function SliderCarousel() {
           className={`next ${currentSlide === 3 ? 'prevd' : 'null'}`}
           onClick={nextSlide}
         >
-          <i class="fas fa-chevron-right"></i>
+          <i className="fas fa-chevron-right"></i>
         </button>
       </div>
     </div>
