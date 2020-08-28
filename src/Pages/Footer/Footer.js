@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 const Footer = () => {
   return (
@@ -12,8 +12,7 @@ const Footer = () => {
               awareness, events and more.
             </p>
             <div className="button-wrap">
-              <input placeholder="Email Address"></input>
-              <button>Sign Me Up</button>
+              <button className="signmeup">Sign Me Up</button>
             </div>
           </div>
         </ul>
